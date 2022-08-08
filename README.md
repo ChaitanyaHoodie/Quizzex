@@ -1,6 +1,6 @@
 # quizzex
 
-A new Flutter project.
+A Flutter project based Quiz APP.
 
 ## Getting Started
 
